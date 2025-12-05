@@ -1,0 +1,14 @@
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\bin\Debug\net9.0\ProtectionProxy.exe
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\bin\Debug\net9.0\ProtectionProxy.deps.json
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\bin\Debug\net9.0\ProtectionProxy.runtimeconfig.json
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\bin\Debug\net9.0\ProtectionProxy.dll
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\bin\Debug\net9.0\ProtectionProxy.pdb
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.AssemblyInfoInputs.cache
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.AssemblyInfo.cs
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.csproj.CoreCompileInputs.cache
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.dll
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\obj\Debug\net9.0\refint\ProtectionProxy.dll
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.pdb
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\obj\Debug\net9.0\ProtectionProxy.genruntimeconfig.cache
+C:\Users\samek\RiderProjects\Proxy\ProtectionProxy\obj\Debug\net9.0\ref\ProtectionProxy.dll

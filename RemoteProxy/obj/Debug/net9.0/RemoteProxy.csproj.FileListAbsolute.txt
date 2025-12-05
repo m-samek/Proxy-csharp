@@ -1,0 +1,14 @@
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\bin\Debug\net9.0\RemoteProxy.exe
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\bin\Debug\net9.0\RemoteProxy.deps.json
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\bin\Debug\net9.0\RemoteProxy.runtimeconfig.json
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\bin\Debug\net9.0\RemoteProxy.dll
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\bin\Debug\net9.0\RemoteProxy.pdb
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\obj\Debug\net9.0\RemoteProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\obj\Debug\net9.0\RemoteProxy.AssemblyInfoInputs.cache
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\obj\Debug\net9.0\RemoteProxy.AssemblyInfo.cs
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\obj\Debug\net9.0\RemoteProxy.csproj.CoreCompileInputs.cache
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\obj\Debug\net9.0\RemoteProxy.dll
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\obj\Debug\net9.0\refint\RemoteProxy.dll
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\obj\Debug\net9.0\RemoteProxy.pdb
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\obj\Debug\net9.0\RemoteProxy.genruntimeconfig.cache
+C:\Users\samek\RiderProjects\Proxy\RemoteProxy\obj\Debug\net9.0\ref\RemoteProxy.dll

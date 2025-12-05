@@ -1,0 +1,14 @@
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\bin\Debug\net9.0\VirtualProxy.exe
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\bin\Debug\net9.0\VirtualProxy.deps.json
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\bin\Debug\net9.0\VirtualProxy.runtimeconfig.json
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\bin\Debug\net9.0\VirtualProxy.dll
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\bin\Debug\net9.0\VirtualProxy.pdb
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\obj\Debug\net9.0\VirtualProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\obj\Debug\net9.0\VirtualProxy.AssemblyInfoInputs.cache
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\obj\Debug\net9.0\VirtualProxy.AssemblyInfo.cs
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\obj\Debug\net9.0\VirtualProxy.csproj.CoreCompileInputs.cache
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\obj\Debug\net9.0\VirtualProxy.dll
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\obj\Debug\net9.0\refint\VirtualProxy.dll
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\obj\Debug\net9.0\VirtualProxy.pdb
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\obj\Debug\net9.0\VirtualProxy.genruntimeconfig.cache
+C:\Users\samek\RiderProjects\Proxy\VirtualProxy\obj\Debug\net9.0\ref\VirtualProxy.dll

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualProxy", "VirtualProxy\VirtualProxy.csproj", "{9FD5BAA8-7EA3-4DCB-84D0-D60FF8F4ECF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteProxy", "RemoteProxy\RemoteProxy.csproj", "{C69E8151-CB1D-41D7-A4A0-C4ED6626AF07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectionProxy", "ProtectionProxy\ProtectionProxy.csproj", "{F5CC336F-5C6F-47E6-8489-14A6CB798893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD5BAA8-7EA3-4DCB-84D0-D60FF8F4ECF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD5BAA8-7EA3-4DCB-84D0-D60FF8F4ECF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD5BAA8-7EA3-4DCB-84D0-D60FF8F4ECF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD5BAA8-7EA3-4DCB-84D0-D60FF8F4ECF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69E8151-CB1D-41D7-A4A0-C4ED6626AF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69E8151-CB1D-41D7-A4A0-C4ED6626AF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69E8151-CB1D-41D7-A4A0-C4ED6626AF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69E8151-CB1D-41D7-A4A0-C4ED6626AF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CC336F-5C6F-47E6-8489-14A6CB798893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CC336F-5C6F-47E6-8489-14A6CB798893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CC336F-5C6F-47E6-8489-14A6CB798893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CC336F-5C6F-47E6-8489-14A6CB798893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
